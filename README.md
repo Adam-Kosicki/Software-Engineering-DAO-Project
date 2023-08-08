@@ -10,4 +10,4 @@ The GameDAOImpl class uses PreparedStatement objects to execute SQL statements a
 
 This project provides a useful framework for developers who want to create applications that manage Game objects using a JDBC database.
 
-*Important: This code is owned by the University of Texas at Dallas. The project involved implementing our own code in addiiton to the code that was given to us.*
+*Important: This code is owned by the University of Texas at Dallas. The project involved implementing our own code in additon to the code that was given to us.*

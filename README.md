@@ -1,5 +1,4 @@
 # Software-Engineering-DAO-Project
-JAVA | DAO, SQL, Prepared Statement, Database, JDBC
 
 This is a Java project that provides an implementation of the DAO interface for managing Game entities using JDBC technology. The GameDAOImpl class implements the GameDAO interface and provides methods to create, retrieve, update, and delete Game objects from a database.
 

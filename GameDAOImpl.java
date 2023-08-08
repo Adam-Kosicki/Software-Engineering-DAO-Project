@@ -16,7 +16,7 @@ import cs4347.jdbcGame.util.DAOException;
 
 public class GameDAOImpl implements GameDAO
 {
-	private static final String insertSQL = "INSERT INTO game (title, description, releaseDate, version) VALUES ( ?, ?, ?, ?);";
+    private static final String insertSQL = "INSERT INTO game (title, description, releaseDate, version) VALUES ( ?, ?, ?, ?);";
     private static final String retrieveSQL = "SELECT * FROM game WHERE id = ?;";
     private static final String updateSQL = "UPDATE game SET title = ?, description = ?, releaseDate =?, version = ? WHERE id = ?;";
     private static final String deleteSQL = "DELETE FROM game WHERE id = ?;";
